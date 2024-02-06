@@ -13,8 +13,8 @@ const Task:React.FC<TaskProps> = ({task}) => {
     <td className='w-full'>{task.title}</td>
   
     <td className='flex gap-5'>
-      <FaRegEdit className='text-blue-500' size={25}/>
-    <MdDelete className='text-red-500'size={25} />
+      <FaRegEdit cursor='pointer' className='text-blue-500' size={25}/>
+    <MdDelete cursor='pointer' className='text-red-500'size={25} />
 
     </td>
   </tr>
