@@ -1,0 +1,43 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Buy groceries",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Finish homework",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Go for a run",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "go to gym"
+    },
+    {
+      "id": "3",
+      "title": "ddd"
+    },
+    {
+      "id": "3",
+      "title": "hello"
+    },
+    {
+      "id": "4",
+      "title": "fin"
+    },
+    {
+      "id": "7708b551-6b1f-4196-aa09-97d2dd44abe0",
+      "title": "learn java"
+    },
+    {
+      "id": "4978bd87-8b5d-4213-95aa-7a7854552884",
+      "title": "suii"
+    }
+  ]
+}
