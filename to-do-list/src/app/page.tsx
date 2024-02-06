@@ -3,8 +3,8 @@ import ADDTask from "./component/ADDTask";
 import Todolist from "./component/Todolist"; 
 
 
+
 export default async function Home() {
-  
   const task = await getTodos();
   console.log(task);
   return (
