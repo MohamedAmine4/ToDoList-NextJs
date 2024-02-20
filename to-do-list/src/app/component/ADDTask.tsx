@@ -24,7 +24,7 @@ router.refresh();
 
   return (
     <div>
-      <button onClick={()=>setmodalopen(true)} className="btn btn -primary  bg-blue-500 hover:bg-green-700 text-white font-bold py-2 px-8 w-full rounded">
+      <button onClick={()=>setmodalopen(true)} className=" btn -primary  bg-blue-500 hover:bg-green-700 text-white font-bold py-2 px-8 w-full rounded">
         ADD NEW TASK <FaPlus size={15} />
       </button>
       <Modal modalopen={modalopen} setmodalopen={setmodalopen}>
@@ -35,8 +35,8 @@ router.refresh();
         <div className="modal-action"> <input 
         value={newTask}  
         onChange={(e)=>setnewTask(e.target.value)}
-        type="text" placeholder="Type here" className="input input-bordered w-full w-full" />
-        <button type="submit" className="btn">Submit </button>
+        type="text" placeholder="Type here" className="input input-bordered w-full " />
+        <button type="submit" className="btn bg-blue-600">Submit </button>
         </div>
       </form>
         </Modal>

@@ -24,3 +24,19 @@ export const addTodo =async (todo:Task): Promise<Task>=>{
 const newTodo=await res.json();
 return newTodo;
 }
+export const EditTodo =async (todo:Task): Promise<Task>=>{
+  const res= await fetch(`${baseUrl}/todos/${todo.id}`,{
+    method:"PUT",
+    headers:{
+      "Content-Type":"application/json"
+    },
+    body:JSON.stringify(todo)
+})
+const updatedToDo=await res.json();
+return updatedToDo;
+}
+export const DeleteTodo =async (id:string): Promise<void>=>{
+   await fetch(`${baseUrl}/todos/${id}`,{
+    method:"DELETE",
+})
+}
