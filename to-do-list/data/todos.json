@@ -1,20 +1,28 @@
 {
   "todos": [
     {
-      "id": "2",
-      "title": "Finish homework YES NEW"
+      "id": "0b36a59d-0097-401a-88e6-1c3ad51aaef4",
+      "title": "ENJOY :)"
     },
     {
-      "id": "3",
-      "title": "hello HHHHH"
+      "id": "9b7b44df-d159-4506-bd15-ab655350f4db",
+      "title": "Offer assistance or support to a friend or neighbor in need"
     },
     {
-      "id": "74693cd8-1e1e-4055-8596-24dee7ee6935",
-      "title": "1"
+      "id": "46f355b1-b53c-4c45-91a1-63675e3a987f",
+      "title": "Watch a movie or TV show"
     },
     {
-      "id": "4e8bc899-867a-43d4-9882-c533a22dc3d9",
-      "title": "23"
+      "id": "c8b214d4-6407-4d68-b0bc-3c764f53f6d0",
+      "title": "Take a break to relax and practice mindfulness or meditation"
+    },
+    {
+      "id": "8d2cf877-9703-4dab-a645-1ef3cd922efd",
+      "title": "Exercise for at least 30 minutes"
+    },
+    {
+      "id": "ddf63cf1-3352-4e15-99e9-cff05b131540",
+      "title": "Go to gym"
     }
   ]
 }
