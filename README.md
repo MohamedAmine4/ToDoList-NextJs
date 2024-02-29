@@ -2,7 +2,7 @@
 
 ![image](https://github.com/MohamedAmine4/ToDoList-NextJs/assets/124268899/65e1786c-0915-414d-98b4-48318ffc4c52)
 
-
+ 
 ## Description
 This is a simple Todo List application built with Next.js and Tailwind CSS. Easily manage your tasks and stay organized with this intuitive web app.
 
